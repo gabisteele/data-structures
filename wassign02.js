@@ -11,36 +11,17 @@
 
 var fs = require('fs');
 var cheerio = require('cheerio');
+var addresses = [];
 
 var content = fs.readFileSync('/home/ubuntu/workspace/data/meetinginfo.txt');
 
 var $ = cheerio.load(content);
 
-$('table').children('tr').each(function() {
-    if ($(elem).attr("cellpadding") == "5") {
-        
-
-    var text = $(this).text();
-    if(parsedResults[i] == undefined){
-        parsedResults[i] = {};
-    };
-    
-    parsedResults[i].address = text.trim().replace(/^\s+|\s+$/gm,' ');
-    
-    
-    console.log(parsedResults[i]);
-
-function myTrim(x) {
-    return x.replace(/^\s+|\s+$/gm,' ');
-}
-
-
-
-        
-  
-    
-
-
-    
-
+var table = $('tbody');
+// creating a varable address to parse the table to find the rows and creating the each function
+ $(table).find('tr').each(function(i, elem) {
+    $(elem).find('td').eq(0).each(function(i,elem){
+        addresses.push($(elem).html().split("<br>")[2].trim());
+    });
+});
 
