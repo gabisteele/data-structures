@@ -22,6 +22,8 @@ var table = $('tbody');
  $(table).find('tr').each(function(i, elem) {
     $(elem).find('td').eq(0).each(function(i,elem){
         addresses.push($(elem).html().split("<br>")[2].trim());
+        
+        console.log($(elem).find('td').eq(0).html().split('<br>')[2].trim());
     });
 });
 
