@@ -35,7 +35,7 @@ MongoClient.connect(url, function(err, db) {
 var insertDocuments = function(db, callback) {
   // get the documents collection 
   var collection = db.collection('aameetings');
-  // insert info from meetingsInfo to document collection
+  // insert info from meetingsLatLong to document collection
   collection.insert(
     meetingLatLong, function(err, result) {
     assert.equal(err, null);
