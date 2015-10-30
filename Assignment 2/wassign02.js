@@ -20,10 +20,10 @@ var $ = cheerio.load(content);
 var table = $('tbody');
 // creating a varable address to parse the table to find the rows and creating the each function
  $(table).find('tr').each(function(i, elem) {
-    $(elem).find('td').eq(0).each(function(i,elem){
-        addresses.push($(elem).html().split("<br>")[2].trim());
+    // $(elem).find('td').eq(0).each(function(i,elem){
+    //     addresses.push($(elem).html().split("<br>")[2].trim());
         
+
         console.log($(elem).find('td').eq(0).html().split('<br>')[2].trim());
     });
-});
 
