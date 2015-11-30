@@ -1,0 +1,18 @@
+CREATE TABLE sensorData ( maxSensorVal numeric, dateTime timestamp DEFAULT current_timestamp);
+
+SELECT * FROM sensor;
+
+INSERT INTO sensorData VALUES (numeric, DEFAULT);
+INSERT INTO sensorData VALUES (numeric, DEFAULT);
+
+CREATE TABLE answers ( answerVal boolean, dateTime timestamp DEFAULT current_timestamp);
+
+INSERT INTO answers VALUES (TRUE, DEFAULT);
+INSERT INTO answers VALUES (FALSE, DEFAULT);
+
+CREATE TABLE visualStim ( catVideo boolean, tigerVideo boolean, timestamp DEFAULT current_timestamp);
+
+INSERT INTO catVideo VALUES (TRUE, DEFAULT);
+INSERT INTO catVideo VALUES (FALSE, DEFAULT);
+INSERT INTO tigerVideo VALUES (TRUE, DEFAULT);
+INSERT INTO tigerVideo VALUES (FALSE, DEFAULT);
