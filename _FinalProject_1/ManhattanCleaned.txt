@@ -1,0 +1,4834 @@
+[
+	{
+		"meetingName": "12 CONCEPTS WORKSHOP",
+		"locationName": "N.Y.U Bronfman Center",
+		"meetingAddress": "7 EAST 10TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:15 PM >",
+			"endTime": "9:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "TWO FOR ONE -",
+		"locationName": "Harlem Children's Zone Admin. Offices",
+		"meetingAddress": "35 EAST 125 STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:15 PM",
+			"endTime": "5:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "TWENTY-TWO BELOW",
+		"locationName": "Gustavus Adolphus Church",
+		"meetingAddress": "155 EAST 22ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:15 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Living Sober",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "4 THE GRACE",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Living Sober",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "42nd AT 9:00pm",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "OD = Open Discussion meeting  br",
+			"specialInterest": "Beginners Workshop",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "A BAFFLED LOT",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "A CHANCE TO LIVE AGAIN",
+		"locationName": "SRO Building",
+		"meetingAddress": "109 WEST 129TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM >",
+			"endTime": "7:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "A DESIGN FOR LIVING",
+		"locationName": "St Andrews Church",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 AM",
+			"endTime": "8:00 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "A NEW DAY",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "As Bill Sees It",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "A NEW FREEDOM",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 AM",
+			"endTime": "9:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Daily Reflections",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "A NEW WAY OF LIVING",
+		"locationName": "Columbia Presbyterian Hospital",
+		"meetingAddress": "701 WEST 168TH STREET @ FORT WASHINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Living Sober",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "A VISION FOR YOU",
+		"locationName": "Christ & St. Stephen's Church",
+		"meetingAddress": "120 WEST 69TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:45 PM",
+			"endTime": "8:45 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "AA ON THE BOWERY",
+		"locationName": "University Settlement",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "A.A. TRADITIONS AND HISTORY",
+		"locationName": "Manhattan Church of Christ",
+		"meetingAddress": "48 EAST 80TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "T = Tradition meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "MEDITATION -",
+		"locationName": "Three Jewels Community Center",
+		"meetingAddress": "61 FOURTH AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "b",
+			"specialInterest": "Meditation",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "AA IT WORKS II",
+		"locationName": "Union Baptist Church",
+		"meetingAddress": "240 WEST 145TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "AA LITERATURE",
+		"locationName": "",
+		"meetingAddress": "122 EAST 37TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "ABINGDON SQUARE IN CHELSEA",
+		"locationName": "S.A.G.E.",
+		"meetingAddress": "305 7TH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:00 PM >",
+			"endTime": "9:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "ACTIVE",
+		"locationName": "St. Jean Baptiste Church",
+		"meetingAddress": "184 EAST 76TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM >",
+			"endTime": "7:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "ADVENTURES IN SOBRIETY",
+		"locationName": "Saint Thomas Church",
+		"meetingAddress": "1 WEST 53RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting   ecial",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "AFTER EIGHT",
+		"locationName": "Holy Trinity Lutheron Church",
+		"meetingAddress": "3 WEST 65TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "AFTER EIGHT (:ii)",
+		"locationName": "Holy Trinity Lutheron Church",
+		"meetingAddress": "3 WEST 65TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "AA Literature",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "AFTERNOON AWAKENING",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "2:30 PM",
+			"endTime": "3:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Living Sober",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "AFTERNOON DELIGHT",
+		"locationName": "Hazelden Center",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "AGNOSTICS AT NOON",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Agnostic",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "ALANON HOUSE (AA Meetings Only)",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "ALIVE AGAIN",
+		"locationName": "Seafarers & Intl House",
+		"meetingAddress": "123 EAST 15TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "1:00 PM",
+			"endTime": "2:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ALTERED ATTITUDES",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:30 PM",
+			"endTime": "10:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "AMAZING GRACE",
+		"locationName": "St. Mary the Virgin Church",
+		"meetingAddress": "133 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "AMSTERDAM",
+		"locationName": "St. Gregory's Church",
+		"meetingAddress": "144 WEST 90TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:00 PM",
+			"endTime": "2:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Living Sober",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ANNEX (:I)",
+		"locationName": "Hudson Guild",
+		"meetingAddress": "441 WEST 26TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ANNEX (:II)",
+		"locationName": "GMHC",
+		"meetingAddress": "446 WEST 33RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:00 PM /",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "ANSONIA",
+		"locationName": "Hamilton House",
+		"meetingAddress": "141 WEST 73RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "ARTISTS IN RECOVERY",
+		"locationName": "46th Street Clubhouse",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM /",
+			"endTime": "10:15 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Special Purpose Grou",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "ARTISTS IN RECOVERY (A.R.T.)",
+		"locationName": "Seventh Day Adventist Church",
+		"meetingAddress": "232 W. 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "AT BILL'S PLACE",
+		"locationName": "Calvary Church Parish House",
+		"meetingAddress": "61 GRAMERCY PARK NORTH, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM >",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "ATLANTIC BY THE BOOK",
+		"locationName": "Gustavus Adolphus Lutheran Church",
+		"meetingAddress": "155 EAST 22ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "ATLANTIC DOWNTOWN",
+		"locationName": "Mabel Bacon High School of the Future",
+		"meetingAddress": "127 EAST 22ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "ATLANTIC ELEVENTH STEP MEDITATION",
+		"locationName": "Church of the Epiphany",
+		"meetingAddress": "1393 YORK AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "ATLANTIC (:I)",
+		"locationName": "Christ United Methodist Church",
+		"meetingAddress": "520 PARK AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "ATLANTIC GROUP (:II)",
+		"locationName": "Archdiocian Cathedral of the Holy Trinity",
+		"meetingAddress": "337 E. 74TH ST., New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "ATLANTIC GROUP (:III)",
+		"locationName": "All Souls Church",
+		"meetingAddress": "1157 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ATLANTIC WEST STEP & TRADITION",
+		"locationName": "Fourth Universalist Church",
+		"meetingAddress": "4 WEST 76TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "ATTITUDE ADJUSTMENT",
+		"locationName": "Upper Manhattan Mental Health Center",
+		"meetingAddress": "1727 AMSTERDAM AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:45 AM",
+			"endTime": "9:45 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "AVENUE B CLEAN AND DRY",
+		"locationName": "Trinity Lower East Side Lutheran Parish",
+		"meetingAddress": "602 EAST 9TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "BAGELS AND BIG BOOK",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM",
+			"endTime": "12:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "BEGINNERS",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:30 PM",
+			"endTime": "2:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Living Sober",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "BEGINNERS",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "2:45 PM",
+			"endTime": "3:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "BETWEEN SHOWS",
+		"locationName": "The Actor's Temple",
+		"meetingAddress": "339 WEST 47TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM >",
+			"endTime": "6:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "BIG BOOK MAGIC",
+		"locationName": "Church of Holy Apostles",
+		"meetingAddress": "296 9TH AVE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:45 PM",
+			"endTime": "8:45 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Big Book Topic",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "BLOOMINGDALE",
+		"locationName": "Church of the Ascension",
+		"meetingAddress": "221 WEST 107TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM /",
+			"endTime": "7:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "BLUEPRINT FOR LIVING",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND ST RM 306, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:30 PM",
+			"endTime": "5:30 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Living Sober",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "BOOKSHOP AT NOON",
+		"locationName": "St. Francis of Assisi Education Center",
+		"meetingAddress": "139 WEST 31ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "BREAKFAST CLUB",
+		"locationName": "",
+		"meetingAddress": "30 EAST 35TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "BREAKING THROUGH",
+		"locationName": "Gracie Square Hospital",
+		"meetingAddress": "420 EAST 76TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "BRIDGE TO SOBRIETY",
+		"locationName": "Holy Rood Church",
+		"meetingAddress": "715 WEST 179TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "Living Sober",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "BRIDGE TO SOBRIETY (:II)",
+		"locationName": "Holy Rood Church",
+		"meetingAddress": "715 WEST 179TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "BROADWAY AT 96TH",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "CADILLACS FOR EVERYONE",
+		"locationName": "Holy Trinity Rectory",
+		"meetingAddress": "215 WEST 82ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Men>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "CAME TO BELIEVE",
+		"locationName": "Our Lady of Good Counsel Church",
+		"meetingAddress": "230 EAST 90TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "3:30 PM",
+			"endTime": "4:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "CAMPUS CHEER",
+		"locationName": "Broadway Presbyterian Church",
+		"meetingAddress": "601 WEST 114TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM /",
+			"endTime": "1:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "CARLYLE",
+		"locationName": "Cathedral High School",
+		"meetingAddress": "350 EAST 56TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:45 PM",
+			"endTime": "6:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "CARNEGIE HILL",
+		"locationName": "St. Thomas More Church",
+		"meetingAddress": "65 EAST 89TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM /",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "CENTRAL I",
+		"locationName": "St. James Episcopal Church",
+		"meetingAddress": "865 MADISON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "5:45 PM",
+			"meetingType": "O = Open meeting   ecial",
+			"specialInterest": "Meditation",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "CENTRAL PARK WEST",
+		"locationName": "Universalist Church",
+		"meetingAddress": "160 CENTRAL PARK WEST, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:15 PM /",
+			"endTime": "9:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "A BRIDGE BACK - CHAMBERS STREET - A BRIDGE BACK",
+		"locationName": "St. Andrew's Church",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:15 PM /",
+			"endTime": "1:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "CHAPTER FIVE (:I)",
+		"locationName": "Immanuel Lutheran Church",
+		"meetingAddress": "1296 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 AM",
+			"endTime": "8:15 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Women>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "CHELSEA MORNINGS",
+		"locationName": "St. Peters Episcopal Church- Rectory",
+		"meetingAddress": "346 W. 20TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 AM",
+			"endTime": "9:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Meditation",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "CHELSEA NOONERS",
+		"locationName": "McBurney YMCA",
+		"meetingAddress": "125 WEST 14TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "CHELSEA RIVERSIDE",
+		"locationName": "West Side YMCA at 63rd Street",
+		"meetingAddress": "5 WEST 63RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:45 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "Topic>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "CHINATOWN",
+		"locationName": "Church of the Transfiguration",
+		"meetingAddress": "29 MOTT STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "CHOCK FULL OF SOBRIETY",
+		"locationName": "Universalist Church",
+		"meetingAddress": "4 WEST 76TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "CITIKORP",
+		"locationName": "St. Peter's Lutheran Church @ Citicorp Center",
+		"meetingAddress": "619 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 AM >",
+			"endTime": "8:30 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "CLASSEN HALL (:II)",
+		"locationName": "Fourth Universalist Society",
+		"meetingAddress": "160 CENTRAL PARK WEST, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "CLASSEN HALL",
+		"locationName": "Good Shepherd Faith Church",
+		"meetingAddress": "152 WEST 66TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Twelve Steps",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "CLEAN AND DRY",
+		"locationName": "Trinity Presbyterian Church",
+		"meetingAddress": "422 WEST 57TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "5:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "COLUMBUS AT FIVE",
+		"locationName": "Second Presbyterian Church",
+		"meetingAddress": "3 WEST 95TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Children Welcome",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "COMMUTERS SPECIAL",
+		"locationName": "St. John's Hall",
+		"meetingAddress": "211 WEST 30TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "COMPLETE ABANDON",
+		"locationName": "Our Lady of Immaculate Conception",
+		"meetingAddress": "414 EAST 14TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:30 PM >",
+			"endTime": "9:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "COMPLETELY SOBER",
+		"locationName": "Fulton Senior Center",
+		"meetingAddress": "119 NINTH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "CONVENT",
+		"locationName": "St. Phillip Church",
+		"meetingAddress": "204 WEST 134TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:30 AM /",
+			"endTime": "1:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "COURAGE TO CHANGE",
+		"locationName": "",
+		"meetingAddress": "122 EAST 37TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:45 PM",
+			"endTime": "1:45 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "First Step Workshop",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "CROSSROADS",
+		"locationName": "Christopher House",
+		"meetingAddress": "202 WEST 24 STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "D.I.V.A. (Divinely Inspired Vivacious Alcoholics)",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "DOWNTOWN",
+		"locationName": "St. Margaret's Residence",
+		"meetingAddress": "49 FULTON STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "DYCKMAN",
+		"locationName": "St. Jude's School",
+		"meetingAddress": "431 WEST 204TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "EAST HARLEM",
+		"locationName": "Peter Jay Sharpe Building",
+		"meetingAddress": "223 EAST 117TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Living Sober",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "EAST MEETS WEST IN SOBRIETY",
+		"locationName": "Brotherhood Synagogue",
+		"meetingAddress": "28 GRAMERCY PARK SOUTH, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "EAST VILLAGE",
+		"locationName": "Middle Collegiate Church",
+		"meetingAddress": "50 EAST 7TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "SOBER AGNOSTICS",
+		"locationName": "University Settlement (The Chinatown YMCA)",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Agnostic",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "EIGHTIETH STREET BEGINNERS",
+		"locationName": "All Angels Church",
+		"meetingAddress": "251 WEST 80TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "ELEVENTH STEP AT JAN HUS",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:00 AM",
+			"endTime": "10:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "EMPIRE STATE",
+		"locationName": "J.H. Holmes Community House",
+		"meetingAddress": "28 EAST 35TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:15 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+		"locationName": "",
+		"meetingAddress": "44 JOHN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:15 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "Living Sober",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+		"locationName": "",
+		"meetingAddress": "49 FULTON STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 AM",
+			"endTime": "7:30 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Topic>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "EXPERIENCE STRENGTH AND HOPE",
+		"locationName": "University Settlement House",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "FAST BREAK",
+		"locationName": "Hargrave House",
+		"meetingAddress": "111 WEST 71ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 AM /",
+			"endTime": "8:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "FAST BREAK WEEKEND",
+		"locationName": "West Side YMCA",
+		"meetingAddress": "5 WEST 63RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:00 AM",
+			"endTime": "9:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "FEARLESS",
+		"locationName": "All Souls Uniterian Church",
+		"meetingAddress": "1157 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FELLOWSHIP AT NOON",
+		"locationName": "Spiritual Renewal Church",
+		"meetingAddress": "2044 ADAM CLAYTON POWELL BLVD., New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:15 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FIFTH AVENUE STEP",
+		"locationName": "St. Thomas Church",
+		"meetingAddress": "1 WEST 53RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "FIRESIDE",
+		"locationName": "Trinity Presbyterian Church",
+		"meetingAddress": "422 WEST 57TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "FIRESIDE (:II) WEEKEND MEETINGS ONLY",
+		"locationName": "West Side YMCA",
+		"meetingAddress": "5 WEST 63RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM /",
+			"endTime": "11:30 AM",
+			"meetingType": "S = Step meeting   ecial I",
+			"specialInterest": "First Step Workshop",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "FIRST THINGS FIRST",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 AM /",
+			"endTime": "7:00 AM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "As Bill Sees It",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "IFTH AVENUE - FOGLIFTERS-FIFTH AVENUE",
+		"locationName": "Fifth Av Presbyterian Church",
+		"meetingAddress": "7 WEST 55TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "12:00 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": ""
+		}
+	},
+	{
+		"meetingName": "IVE SOLUTIONS - FORTY-FIVE SOLUTIONS",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 PM /",
+			"endTime": "11:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "-WAY - FOUND-A-WAY",
+		"locationName": "Church of the Intercession",
+		"meetingAddress": "550 WEST 155TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM /",
+			"endTime": "2:00 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Gay Men>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "FRIDAY CENTRAL",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FRIDAY DOWNTOWN",
+		"locationName": "St. Andrew's Church",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FRIDAY NIGHT GAY MEN & WOMEN",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FRIDAY NIGHT MEN'S STEP",
+		"locationName": "St. Thomas More Church Rectory",
+		"meetingAddress": "65 EAST 89TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Men>",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "FRIDAY NIGHT STEP",
+		"locationName": "Church of St. Matthew and St. Timothy",
+		"meetingAddress": "26 WEST 84TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "GATEWAY",
+		"locationName": "",
+		"meetingAddress": "18 VESEY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GOTHAM",
+		"locationName": "Cathedral High School",
+		"meetingAddress": "350 EAST 56TH STREET , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRACE ON BROADWAY",
+		"locationName": "Grace Church Office Building",
+		"meetingAddress": "802 BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:15 AM",
+			"endTime": "9:15 AM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRAMERCY",
+		"locationName": "Brothhood Synagogue",
+		"meetingAddress": "28 GRAMMERCY PARK SOUTH, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRAND CENTRAL",
+		"locationName": "Soldiers, Sailors, Marines & Airmen's Club",
+		"meetingAddress": "283 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "First Step Workshop",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRATEFUL GROUP OF A.A.",
+		"locationName": "Saint George Episcopal Church",
+		"meetingAddress": "209 EAST 16TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Meditation",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GREEN ROOM",
+		"locationName": "The Actors Fund of America",
+		"meetingAddress": "729 7TH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Special Purpose Gro",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "GREENWICH VILLAGE",
+		"locationName": "The Archive Building",
+		"meetingAddress": "154 CHRISTOPHER STREET , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Steps 1-2-3",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRUPO BRASIL",
+		"locationName": "",
+		"meetingAddress": "122 EAST 37TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "GRUPO BUENA VOLUNTAD",
+		"locationName": "Apartment Building",
+		"meetingAddress": "538 WEST 47TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "Sp = Spanish speaking group",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRUPO CAMINO REAL",
+		"locationName": "Holy Name School",
+		"meetingAddress": "200 WEST 97TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:30 PM",
+			"endTime": "5:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO CENTRAL",
+		"locationName": "St. Augustine's Church",
+		"meetingAddress": "292 HENRY STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO DESPERTAR",
+		"locationName": "Casita Esperanza",
+		"meetingAddress": "557 WEST 156TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:00 PM >",
+			"endTime": "10:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "GRUPO DULCES 24",
+		"locationName": "Grace House",
+		"meetingAddress": "218 WEST 108TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO EL MILAGRO",
+		"locationName": "Good Reedemer Church",
+		"meetingAddress": "173 EAST 3RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO GRATITUD",
+		"locationName": "Our Lady of Guadalupe Church",
+		"meetingAddress": "229 WEST 14TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "GRUPO LA FLAMA PANAMERICANA",
+		"locationName": "",
+		"meetingAddress": "35 THAYER STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO LIBERTAD",
+		"locationName": "Episcopal Holy Rood Church",
+		"meetingAddress": "715 WEST 179TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "GRUPO LUZ DIVINA",
+		"locationName": "Iglesia Metodista Grace",
+		"meetingAddress": "125 WEST 104TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "GRUPO NUEVA VIDA",
+		"locationName": "",
+		"meetingAddress": "2126 2ND AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO RECUPERACION",
+		"locationName": "Church Santa Rosa de Lima",
+		"meetingAddress": "502 WEST165TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "2:30 PM",
+			"endTime": "3:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "GRUPO SOBRIEDAD",
+		"locationName": "Our Lady of Guadalupe Church",
+		"meetingAddress": "229 WEST 14TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:00 PM /",
+			"endTime": "2:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "GRUPO TRASMITELO",
+		"locationName": "",
+		"meetingAddress": "469 WEST 142ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "GRUPO UN NUEVO AMANECER",
+		"locationName": "Our Lady Queen of Martyrs",
+		"meetingAddress": "91 ARDEN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "HAPPY DESTINY",
+		"locationName": "Holy Trinity Episcopal Church",
+		"meetingAddress": "20 CUMMING STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "HAPPY, JOYOUS AND FREE",
+		"locationName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "12:00 AM",
+			"meetingType": "C = Closed Discussion meeting   eci",
+			"specialInterest": "Gay Men>"
+		}
+	},
+	{
+		"meetingName": "HARGRAVE HOUSE",
+		"locationName": "Hamilton House",
+		"meetingAddress": "141 WEST 73RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "HARLEM 1 PM RECOVERY",
+		"locationName": "Veterans Residence",
+		"meetingAddress": "22 EAST 119TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "1:00 PM",
+			"endTime": "2:00 PM",
+			"meetingType": "T = Tradition meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "HARLEM HUMANISTS",
+		"locationName": "St. Mary's Episcopal",
+		"meetingAddress": "521 W 126TH ST, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "O = Open meeting   ecial",
+			"specialInterest": "Agnostic",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "HELL'S KITCHEN",
+		"locationName": "Mount Sinai - Roosevelt Hospital",
+		"meetingAddress": "1000 TENTH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "HENRY HUDSON",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "HIGH NOON",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "O = Open meeting   ecial",
+			"specialInterest": "Interpreted for the",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "HUMANISTS TOO",
+		"locationName": "Church of Saint Thomas Moore",
+		"meetingAddress": "65 EAST 89TH STREET - RECTORY BASEMENT, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "b",
+			"specialInterest": "Agnostic",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "I'M ALL IN",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "INTO ACTION MANHATTAN",
+		"locationName": "St. Francis de Sales Church",
+		"meetingAddress": "135 EAST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM >",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Big Book Workshop",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "INWOOD-FT. TRYON",
+		"locationName": "Mount Washington Presbyterian Church",
+		"meetingAddress": "84 VERMILYEA AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM /",
+			"endTime": "12:00 PM",
+			"meetingType": "B = Beginners meeting \r\n\t\t\t \t\t\t b",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ISHAM PARK",
+		"locationName": "Church of the Good Shepherd",
+		"meetingAddress": "620 ISHAM STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "JOE AND CHARLIE CD MEETING",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "JUST FOR TODAY",
+		"locationName": "Brotherhood Synagogue",
+		"meetingAddress": "28 GRAMERCY PARK SOUTH, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "KEEP IT SIMPLE (KISS)",
+		"locationName": "SRO Building Community Room",
+		"meetingAddress": "109 WEST 129TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "KITCHEN TABLE MEETING",
+		"locationName": "Jan Hus Presbyterian Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM /",
+			"endTime": "12:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "TERMINAL UNIQUENESS -",
+		"locationName": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+		"meetingAddress": "208 W 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "LAMBDA WEST",
+		"locationName": "Rutgers Church",
+		"meetingAddress": "236 WEST 73RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM >",
+			"endTime": "7:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Interpreted for the",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "LEARNING TO LIVE ( :1)",
+		"locationName": "The Upright Citizens Brigade Theatre",
+		"meetingAddress": "307 W. 26th STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 AM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Promises",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "LEARNING TO LIVE ( :II)",
+		"locationName": "St. Columba Church",
+		"meetingAddress": "343 WEST 25TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "LEARNING TO LIVE",
+		"locationName": "Upright Citizens Brigade Theatre",
+		"meetingAddress": "307 WEST 26TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Promises",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "LEARNING TO LIVE SOBER",
+		"locationName": "Our Lady of Lourdes",
+		"meetingAddress": "469 WEST 142ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "LENOX HILL",
+		"locationName": "Church of the Heavenly Rest",
+		"meetingAddress": "2 EAST 90TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "LEX 80 STEP",
+		"locationName": "All Souls Uniterian Church",
+		"meetingAddress": "1157 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM >",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Twelve Steps",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "LIFE LINE",
+		"locationName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingAddress": "619 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "LIVE AND LET LIVE",
+		"locationName": "Gracie Square Hospital",
+		"meetingAddress": "420 EAST 76TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "LIVING CLEAN AND SOBER ON 121ST STREET",
+		"locationName": "",
+		"meetingAddress": "2044 SEVENTH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "LIVING NOW (:II)",
+		"locationName": "Theatre 80",
+		"meetingAddress": "80 ST. MARK&APOS;S PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "LIVING TODAY",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "LOWER EAST SIDE",
+		"locationName": "Church of Saint Theresa Rectory",
+		"meetingAddress": "141 HENRY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "LUNCH BUNCH",
+		"locationName": "Saint Agnes Church",
+		"meetingAddress": "141 EAST 43RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "LUNCHTIME EXPRESS AT THE MUSTARD SEED",
+		"locationName": "MUSTARD SEED",
+		"meetingAddress": "122 E 37TH ST., New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "MADISON 73",
+		"locationName": "Jan Hus Presbyterian Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "MADISON PARK BEGINNERS",
+		"locationName": "Intercare",
+		"meetingAddress": "51 EAST 25TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "B = Beginners meeting \r\n\t\t\t \t\t\t b",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "MANHATTAN",
+		"locationName": "Gustavus Adolphus Church",
+		"meetingAddress": "155 EAST 22ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "MANHATTAN VALLEY",
+		"locationName": "West End Presbyterian Church",
+		"meetingAddress": "165 WEST 105TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "MEDITATION (EXPECT MIRACLES)",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM",
+			"endTime": "12:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "MEDITATION COMES TO HARLEM",
+		"locationName": "S.A.G.E.",
+		"meetingAddress": "127 WEST 127TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:30 PM",
+			"endTime": "5:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MEDITATION MEETING",
+		"locationName": "Golden Bridge Yoga Center",
+		"meetingAddress": "253 CENTER STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Meditation at Meeti",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MEDITATION SATURDAY NIGHT",
+		"locationName": "Mustard Seed",
+		"meetingAddress": "122 EAST 37TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "b",
+			"specialInterest": "Eleventh Step Medit",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "METROPOLIS MEN'S MEETING",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:45 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "METROPOLITAN",
+		"locationName": "St. Ignatius Loyola School",
+		"meetingAddress": "48 EAST 84TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:15 PM",
+			"endTime": "4:15 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "First Step Workshop",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "AY CHEER - MID-DAY CHEER",
+		"locationName": "Holy Name Church Rectory",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:00 PM",
+			"endTime": "2:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Women>",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "ARLEM - MID-HARLEM",
+		"locationName": "Grace Congregational Baptist Church",
+		"meetingAddress": "310 WEST 139TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MIDNIGHT IN MIDTOWN",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "1:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Living Sober",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "MIDNITE",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "1:15 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Promises",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MIRACLE",
+		"locationName": "Trinity Presbyterian Church",
+		"meetingAddress": "422 W. 57TH ST., New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MONDAY EAST TOPIC",
+		"locationName": "St. Stephen of Hungary Church",
+		"meetingAddress": "408 EAST 82ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MONDAY MEN",
+		"locationName": "St. Agnes Church",
+		"meetingAddress": "141 EAST 43RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MONDAY NIGHT CHALLENGE",
+		"locationName": "St. James Church",
+		"meetingAddress": "409 WEST 141ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MONDAY WOMEN",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MORNING CALL",
+		"locationName": "St. Mary the Virgin Church",
+		"meetingAddress": "133 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 AM",
+			"endTime": "7:00 AM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "MORNING REFLECTIONS",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:30 AM >",
+			"endTime": "10:30 AM",
+			"meetingType": "OD = Open Discussion meeting  br",
+			"specialInterest": "Daily Reflections",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "MORNINGSIDE",
+		"locationName": "Advent Lutheran Church",
+		"meetingAddress": "2504 BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "MORNINGSIDE HEIGHTS BEGINNERS",
+		"locationName": "Church of Notre Dame",
+		"meetingAddress": "405 WEST 114TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "MURRAY HILL",
+		"locationName": "Church of the Incarnation",
+		"meetingAddress": "209 MADISON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MUSTARD SEED (:I)",
+		"locationName": "",
+		"meetingAddress": "122 EAST 37TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 AM /",
+			"endTime": "7:15 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Daily Reflections",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "N.Y.U. (NOW YOU UNDERSTAND)",
+		"locationName": "Bronfman Center",
+		"meetingAddress": "7 EAST 10TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Promises",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "NEVER HAD A LEGAL DRINK",
+		"locationName": "German Evangelist Lutheran Church of St. Paul",
+		"meetingAddress": "315 WEST 22ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Young People",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "NEVER TOO LATE",
+		"locationName": "West End Collegiate Church",
+		"meetingAddress": "368 WEST END AVE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "NEW BUT WEST",
+		"locationName": "St. Mary the Virgin Church",
+		"meetingAddress": "133 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "NEW CHOICES",
+		"locationName": "Congregational Kehilath Jeshurun",
+		"meetingAddress": "125 EAST 85TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "NEW GROUP",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "83 CHRISTOPHER STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "Gay, Lesbian and Bis",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "NEW LIFE IN SOBRIETY",
+		"locationName": "Friends Meeting House",
+		"meetingAddress": "15 RUTHERFORD PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "NEW PHOENIX",
+		"locationName": "",
+		"meetingAddress": "303 WEST 42ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM",
+			"endTime": "11:30 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "NIGHT LIGHT",
+		"locationName": "St. Michael's Parish House",
+		"meetingAddress": "225 WEST 99TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "NIGHT LIGHT BEGINNERS",
+		"locationName": "Anshe Chesed Synagogue",
+		"meetingAddress": "251 WEST 100TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "IXTH STREET WORKSHOP - NINETY-SIXTH STREET WORKSHOP",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 PM",
+			"endTime": "11:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Promises",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "NINJAS IN RECOVERY",
+		"locationName": "The Realization Center",
+		"meetingAddress": "25 EAST 15TH, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM >",
+			"endTime": "9:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "NINTH AVENUE (:I)",
+		"locationName": "Holy Apostles Church Rectory",
+		"meetingAddress": "296 9TH AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "First Step Workshop",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "NINTH AVENUE (:II)",
+		"locationName": "General Theological Seminary",
+		"meetingAddress": "175 9TH AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Eleventh Step Medit",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "NU GARDEN",
+		"locationName": "St. Francis of Assisi Center",
+		"meetingAddress": "139 WEST 31ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "NYC BIG BOOK STEP STUDY",
+		"locationName": "PS167 Robert F. Wagner Middle School",
+		"meetingAddress": "220 EAST 76TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Big Book Topic",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "OPEN BOOK",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "OUR PRIMARY PURPOSE",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:30 AM",
+			"endTime": "10:30 AM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Women>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "OXFORD",
+		"locationName": "Church of St. Matthew & St. Timothy",
+		"meetingAddress": "26 WEST 84TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "12:00 AM",
+			"meetingType": "C = Closed Discussion meeting   eci",
+			"specialInterest": "Interpreted for the Deaf"
+		}
+	},
+	{
+		"meetingName": "P.A.X",
+		"locationName": "Church of the Village",
+		"meetingAddress": "201 WEST 13TH STREET , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:45 PM /",
+			"endTime": "7:45 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Men>",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "PARK BENCH (:I)",
+		"locationName": "St. Thomas Church",
+		"meetingAddress": "1 WEST 53RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "PARK BENCH (:II)",
+		"locationName": "St. James Church",
+		"meetingAddress": "865 MADISON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "PARK MADISON",
+		"locationName": "Brick Church Parish House",
+		"meetingAddress": "62 EAST 92ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "PASSING THE BAR",
+		"locationName": "St. Andrew's Church",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "1:15 PM /",
+			"endTime": "2:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Promises",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "PERRY STREET WORKSHOP (:I)",
+		"locationName": "",
+		"meetingAddress": "50 PERRY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Women>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "PERSEVERANCE",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM /",
+			"endTime": "12:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "POT LUCK",
+		"locationName": "Veterans Administration Hospital",
+		"meetingAddress": "423 EAST 23RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "9:00 PM",
+			"endTime": "10:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "POTPOURRI",
+		"locationName": "St. George's Church",
+		"meetingAddress": "209 EAST 16TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "POWERLESS",
+		"locationName": "Manhattan Plaza Health Club",
+		"meetingAddress": "484 WEST 43RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Living Sober",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "PRIMARY PURPOSE",
+		"locationName": "Riverside Church",
+		"meetingAddress": "91 CLAREMONT AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "PRIMETIME NYC (I)",
+		"locationName": "Seventh Day Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:45 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "PRIMETIME NYC (II)",
+		"locationName": "",
+		"meetingAddress": "411 EAST 12TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:30 PM",
+			"endTime": "2:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "PROGRESS NOT PERFECTION",
+		"locationName": "COATHA Church on the Hill Senior Center",
+		"meetingAddress": "2005 AMSTERDAM AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "PROMISES",
+		"locationName": "Fifth Av Presbyterian Church",
+		"meetingAddress": "7 WEST 55TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "PROMISES",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "PROMISES PROMISES",
+		"locationName": "West Side YMCA",
+		"meetingAddress": "5 WEST 63RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "PROMISES TWO FOR ONE",
+		"locationName": "Upper Manhattan Mental Health Center",
+		"meetingAddress": "1727 AMSTERDAM AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "9:30 AM",
+			"endTime": "10:30 AM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "RAINBOW ROOM",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "REALITY CHECK",
+		"locationName": "Our Lady of Lourdes Church",
+		"meetingAddress": "469 WEST 142ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Men>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "REBELLION DOGS",
+		"locationName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingAddress": "619 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 AM /",
+			"endTime": "8:30 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Living Sober",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "RECOVERY ROOM",
+		"locationName": "St. Joseph's School",
+		"meetingAddress": "420 EAST 87TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "RED DOOR",
+		"locationName": "St. John's Episcopal Church",
+		"meetingAddress": "224 WAVERLY PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "RENAISSANCE",
+		"locationName": "The Learning Center",
+		"meetingAddress": "4 WEST 43RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 AM",
+			"endTime": "1:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "RENEWAL EAST",
+		"locationName": "Central Presbyterian Church",
+		"meetingAddress": "593 PARK AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM >",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "RENEWAL NORTH",
+		"locationName": "St. Thomas More Church",
+		"meetingAddress": "65 EAST 89TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "RENEWAL WEST",
+		"locationName": "St. Ignatius Church",
+		"meetingAddress": "552 WEST END AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "RHINELANDER",
+		"locationName": "St. James Episcopal Church",
+		"meetingAddress": "865 MADISON AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "RIVERSIDE",
+		"locationName": "Riverside Church",
+		"meetingAddress": "91 CLAREMONT AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "RIVERTON",
+		"locationName": "St. Aloysius School",
+		"meetingAddress": "219 WEST 132ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ROOM FOR IMPROVEMENT",
+		"locationName": "St. Anthony's of Padua",
+		"meetingAddress": "154 SULLIVAN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Promises",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "ROOM FOR IMPROVEMENT (:II)",
+		"locationName": "Chinatown YMCA",
+		"meetingAddress": "273 BOWERY STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "b",
+			"specialInterest": "Topic>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ROOSEVELT ISLAND SERENITY",
+		"locationName": "",
+		"meetingAddress": "CHURCH OF THE GOOD SHEPARD, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "ROUTES",
+		"locationName": "Phoenix House",
+		"meetingAddress": "164 WEST 74 STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "RUDE AWAKENING",
+		"locationName": "Volunteers of America",
+		"meetingAddress": "340 WEST 85TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:30 PM >",
+			"endTime": "9:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Living Sober",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "S.O.B.E.R.",
+		"locationName": "Saint Peter's Church",
+		"meetingAddress": "22 BARCLAY STREET (BASEMENT), New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:45 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "SALEM",
+		"locationName": "Salem United Methodist Church Community Center",
+		"meetingAddress": "211 WEST 129TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM >",
+			"endTime": "8:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "SANE AND SOBER",
+		"locationName": "Hazelden Tribeca",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Mental Health Issue",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "SATURDAY AFTERNOON DISCUSSION",
+		"locationName": "Municipal Union Bldg DC 37",
+		"meetingAddress": "125 BARCLAY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "2:00 PM",
+			"endTime": "3:15 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SATURDAY BEGINNERS",
+		"locationName": "St. George's Church",
+		"meetingAddress": "209 EAST 16TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM /",
+			"endTime": "11:30 AM",
+			"meetingType": "BB = Big Book meeting \r\n\t\t\t \t\t\t b",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SATURDAY EAST",
+		"locationName": "Church of the Good Shepherd",
+		"meetingAddress": "240 EAST 31ST STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SATURDAY ROTATING 12 STEP",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SATURDAY STEP",
+		"locationName": "The New York New Church",
+		"meetingAddress": "114 EAST 35TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SATURDAY WEEKENDERS",
+		"locationName": "Epiphany Roman Catholic Church",
+		"meetingAddress": "239 EAST 21ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SAVE HER A SEAT",
+		"locationName": "First Presbyterian Church",
+		"meetingAddress": "12 WEST 12TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Women>",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "SEAMEN'S GROUP",
+		"locationName": "St. Margaret's House",
+		"meetingAddress": "49 FULTON STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "SEAPORT",
+		"locationName": "St. Margaret's House",
+		"meetingAddress": "49 FULTON STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:15 PM /",
+			"endTime": "1:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Meditation\t\t \t\t\t<",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "SECOND AVENUE CLEAN AND DRY",
+		"locationName": "Most Holy Redeemer Church",
+		"meetingAddress": "173 EAST 3RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SERENITY EAST",
+		"locationName": "ALL SAINTS CHURCH",
+		"meetingAddress": "230 EAST 60TH STREET (BASEMENT) , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM /",
+			"endTime": "8:30 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "SERENITY EAST (:I)",
+		"locationName": "Caron Foundation",
+		"meetingAddress": "244 EAST 58TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:30 PM /",
+			"endTime": "6:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "INTH STREET WORKSHOP - SEVENTY-NINTH STREET WORKSHOP (:I)",
+		"locationName": "St. Monica's Church",
+		"meetingAddress": "413 EAST 79TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 AM",
+			"endTime": "7:00 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Daily Reflections",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "SHERIDAN SQUARE FOLLIES",
+		"locationName": "St. Joseph's Church",
+		"meetingAddress": "371 6TH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SILKWORTH WOMEN'S",
+		"locationName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingAddress": "619 LEXINGTON AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM /",
+			"endTime": "1:30 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "SMITHEREENS",
+		"locationName": "West End Collegiate Church",
+		"meetingAddress": "368 WEST END AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "SOBER ADULT MEN",
+		"locationName": "Convent Baptist Church Education Building",
+		"meetingAddress": "425 WEST 144TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Men>",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "SOBER MIRACLES",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:30 PM",
+			"endTime": "10:30 PM",
+			"meetingType": "OD = Open Discussion meeting  br",
+			"specialInterest": "Special Purpose Grou",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SOBER ON SATURDAY",
+		"locationName": "Holy Trinity Lutheran Church",
+		"meetingAddress": "3 WEST 65TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SOBER STEPPING",
+		"locationName": "Blessed Sacrament Church Rectory",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Promises",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SOBER WOMEN",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 AM",
+			"endTime": "10:15 AM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SOBRIETY ON THE SQUARE",
+		"locationName": "Church of the Ascension Parish House",
+		"meetingAddress": "12 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SOHO (:I)",
+		"locationName": "St. Anthony of Padua Church",
+		"meetingAddress": "155 SULLIVAN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Interpreted for the",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "SPEAKER MAGIC",
+		"locationName": "PS 41 Elementary School",
+		"meetingAddress": "116 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "SPIRITUAL FRIDAYS",
+		"locationName": "Church of The Holy Apostles",
+		"meetingAddress": "296 NINTH AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Spiritual Workshop",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "SPIRITUAL WORKSHOP",
+		"locationName": "The Bronfman Cernter @ NYU",
+		"meetingAddress": "7 EAST 10TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM",
+			"endTime": "12:15 PM",
+			"meetingType": "C = Closed Discussion meeting  br",
+			"specialInterest": "Eleventh Step",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "HIRTIES - ST. BART'S TWELVE-THIRTIES",
+		"locationName": "St. Bartholomew's Church",
+		"meetingAddress": "325 PARK AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "ST. NICHOLAS",
+		"locationName": "St. Phillip's Church",
+		"meetingAddress": "204 WEST 134TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "ST. THOMAS A.M.",
+		"locationName": "St. Thomas Church Parish House",
+		"meetingAddress": "1 WEST 53RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:45 AM /",
+			"endTime": "8:45 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "STATLER AT NOON",
+		"locationName": "",
+		"meetingAddress": "213 WEST 30TH STREET , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "STEP BY STEP",
+		"locationName": "New York Blood Center",
+		"meetingAddress": "310 EAST 67TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "STEPS THREE-ELEVEN",
+		"locationName": "Harlem Hospital King Pavilion",
+		"meetingAddress": "506 LENOX AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "2:00 PM",
+			"endTime": "3:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "EIGHTIETH STREET",
+		"locationName": "Trinity Presbyterian Church",
+		"meetingAddress": "422 WEST 57TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "STRAIGHT 12",
+		"locationName": "CHURCH OF THE GOOD SHEPARD",
+		"meetingAddress": "236 EAST 31ST STREET , New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "STRAIGHT 12 (:II) DOWNTOWN SATURDAY NIGHT",
+		"locationName": "",
+		"meetingAddress": "80 5TH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SUGAR HILL",
+		"locationName": "Council Center for Problems of Living",
+		"meetingAddress": "1727 AMSTERDAM AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:30 PM",
+			"endTime": "6:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "SUNDAY AT SIX",
+		"locationName": "P.S. 41 (see footnote re: temp location)",
+		"meetingAddress": "116 W. 11TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY MEN'S TOPIC",
+		"locationName": "West Side YMCA",
+		"meetingAddress": "5 WEST 63RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM",
+			"endTime": "11:30 AM",
+			"meetingType": "C = Closed Discussion meeting  br",
+			"specialInterest": "Men>",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY MORNING MEDITATION",
+		"locationName": "Gustavus Adolphus Church",
+		"meetingAddress": "155 EAST 22ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:00 AM",
+			"endTime": "10:00 AM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Meditation\t\t \t\t\t<",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY NIGHT BEGINNERS",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY NOONERS",
+		"locationName": "East Midtown Plaza (Community Room H)",
+		"meetingAddress": "319 EASTR 24TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY ON 70TH",
+		"locationName": "Lenox Hill Neighborhood House",
+		"meetingAddress": "331 E 70TH ST, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "B = Beginners meeting \r\n\t\t\t \t\t\t b",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SUNDAY WEST",
+		"locationName": "",
+		"meetingAddress": "131 WEST 72ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "SURVIVORS IN SOBRIETY",
+		"locationName": "Beth Israel Hospital @ Karpas Cancer Center Library",
+		"meetingAddress": "10 EAST UNION SQUARE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Special Purpose Gro",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "SUTTON",
+		"locationName": "Church of St. Catherine of Siena",
+		"meetingAddress": "411 EAST 68TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "SVOBODA",
+		"locationName": "All Saints Ukrainian Orthodox Church",
+		"meetingAddress": "206-208 EAST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "As Bill Sees It",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "OGETHERNESS & ACTION -",
+		"locationName": "Seventh Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "b",
+			"specialInterest": "Women>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "T.G.I.F. & S.",
+		"locationName": "Seafarers & International House",
+		"meetingAddress": "123 EAST 15TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "TEMPLETON",
+		"locationName": "Conservative Synagogue",
+		"meetingAddress": "308 EAST 55TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "TEN PLUS",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "81 CHRISTOPHER STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM /",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "THE 12th STREET WORKSHOP",
+		"locationName": "",
+		"meetingAddress": "411 EAST 12TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "12:00 AM",
+			"meetingType": "C = Closed Discussion meeting \r\n\t\t\t \t\t\t br",
+			"specialInterest": "Steps 1-2-3>"
+		}
+	},
+	{
+		"meetingName": "THE CAPTAIN'S TABLE",
+		"locationName": "University Settlement (The Chinatown YMCA)",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Men>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "FELLOWSHIP CLUB",
+		"locationName": "McBurney YMCA",
+		"meetingAddress": "125 WEST 14TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "THE MEN UPSTAIRS",
+		"locationName": "Our Saviour's Atonement Lutheran Church",
+		"meetingAddress": "178 BENNETT AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Men>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "MISSING LINK",
+		"locationName": "Our Saviour's Atonement Church",
+		"meetingAddress": "178 BENNETT AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "THREE TWELVES",
+		"locationName": "Church of the Heavenly Rest",
+		"meetingAddress": "2 EAST 90TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "TOGETHER WE CAN",
+		"locationName": "Manhattan Seventh-Day Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:45 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "TOWER",
+		"locationName": "Church of Saint Andrew",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:30 PM >",
+			"endTime": "6:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "TRAFALGAR",
+		"locationName": "The Caron Foundation",
+		"meetingAddress": "244 EAST 58TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM /",
+			"endTime": "7:45 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "TRANSGENDER FOCUS",
+		"locationName": "LGBT Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "TRIANGLE GROUP",
+		"locationName": "Tribeca 12 Building",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "11:00 AM",
+			"endTime": "12:00 PM",
+			"meetingType": "C = Closed Discussion meeting  br",
+			"specialInterest": "Meditation",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "TRIBECA",
+		"locationName": "",
+		"meetingAddress": "7 STATE STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM >",
+			"endTime": "8:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+		"locationName": "",
+		"meetingAddress": "49 FULTON STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "TRINITY",
+		"locationName": "Holy Trinity Church",
+		"meetingAddress": "341 EAST 87TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "TUDOR",
+		"locationName": "Caron Foundation",
+		"meetingAddress": "244 EAST 58TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "TUESDAY BIG BOOK STUDY",
+		"locationName": "",
+		"meetingAddress": "1854 AMSTERDAM AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "TUESDAY SOBER AGNOSTICS",
+		"locationName": "",
+		"meetingAddress": "134 WEST 29TH STREET - 2ND FLOOR STUDIO 203, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Agnostic",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "TURN IT OVER",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "3:30 PM",
+			"endTime": "4:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "TWELVE AT SIX",
+		"locationName": "Beth Israel Phillips Ambulatory Center",
+		"meetingAddress": "10 UNION SQUARE EAST, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "UPON AWAKENING",
+		"locationName": "St. Francis Residence",
+		"meetingAddress": "155 WEST 22ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:45 PM",
+			"endTime": "1:45 PM",
+			"meetingType": "S = Step meeting   ecial",
+			"specialInterest": "Eleventh Step",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "UPPER MANHATTAN",
+		"locationName": "Our Lady Queen of Martyrs",
+		"meetingAddress": "91 ARDEN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "UPTOWN BIG BOOK WORKSHOP",
+		"locationName": "Our Lady of Lourdes Church",
+		"meetingAddress": "469 WEST 142ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:30 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "BB = Big Book meeting   e",
+			"specialInterest": "Big Book Workshop",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "UPTOWN SATURDAY NIGHT",
+		"locationName": "Holy Trinity Church",
+		"meetingAddress": "20 CUMMINGS STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "VILLAGE AGNOSTICS",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:00 PM",
+			"endTime": "5:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Agnostic",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "VILLAGE OPEN DISCUSSION",
+		"locationName": "First Presbyterian Church",
+		"meetingAddress": "12 WEST 12TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:30 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "OVER & UNDER 60 -",
+		"locationName": "The Caring Community",
+		"meetingAddress": "20 WASHINGTON SQUARE NORTH, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:30 PM",
+			"endTime": "4:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WASHINGTON HEIGHTS (:I)",
+		"locationName": "Holy Rood Church",
+		"meetingAddress": "715 WEST 179TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WASHINGTON HEIGHTS (:II)",
+		"locationName": "Cornerstone Center",
+		"meetingAddress": "189TH STREET &AMP; BENNETT AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WAY OF LIFE",
+		"locationName": "Blessed Sacrament Church Rectory",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:00 AM /",
+			"endTime": "11:00 AM",
+			"meetingType": "C = Closed Discussion meeting  br",
+			"specialInterest": "As Bill Sees It",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WE AGNOSTICS OF NYC",
+		"locationName": "Stephen Wise Free Synagogue",
+		"meetingAddress": "30 WEST 68TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Agnostic",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WE ARE NOT DOCTORS (WESTSIDE)",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:45 PM >",
+			"endTime": "5:45 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Medication",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WE HUMANISTS",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:15 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Agnostic",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WEDNESDAY EAST",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WEDNESDAY FOCUS",
+		"locationName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WEEKENDERS",
+		"locationName": "14th Street Y",
+		"meetingAddress": "344 EAST 14TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "10:00 AM",
+			"endTime": "11:00 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "WEST 22ND STREET SOBRIETY",
+		"locationName": "St. Francis Residence",
+		"meetingAddress": "155 WEST 22ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WEST 58TH STREET STEP",
+		"locationName": "Mount Sinai - Roosevelt Hospital",
+		"meetingAddress": "1000 TENTH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "WEST END",
+		"locationName": "Church of St. Paul & St. Andrew",
+		"meetingAddress": "263 WEST 86TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WEST VILLAGE WOMEN",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "83 CHRISTOPHER STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WESTSIDE 11TH STEP MEDITATION WORKSHOP",
+		"locationName": "Addiction Institute",
+		"meetingAddress": "306 WEST 102ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM >",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WESTSIDE STEP",
+		"locationName": "Blessed Sacrament Church Rectory",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "WESTSIDE YOUNG PEOPLE",
+		"locationName": "Church of St.Matthew & St. Timothy",
+		"meetingAddress": "26 WEST 84TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Young People",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WESTWINGERS (:I)",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WHAT WE ARE LIKE NOW",
+		"locationName": "The Corner Stone Center",
+		"meetingAddress": "178 BENNETT AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "WHOLESALE MIRACLES",
+		"locationName": "Trinity Lutheran Church",
+		"meetingAddress": "602 EAST 9TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM /",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WITHOUT A PRAYER",
+		"locationName": "Goddard Riverside Community Center",
+		"meetingAddress": "595 COLUMBUS AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:00 PM",
+			"endTime": "6:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Agnostic",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WOMEN STRAIGHT AHEAD SATURDAY",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:45 PM",
+			"endTime": "6:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WOMEN LIVING SOBER",
+		"locationName": "Trinity Halfway House",
+		"meetingAddress": "306 WEST 102ND STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:00 AM >",
+			"endTime": "10:00 AM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WOMEN NOW",
+		"locationName": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM /",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WOMEN OVER FORTY",
+		"locationName": "GMHC",
+		"meetingAddress": "446 WEST 33RD STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "WOMEN TOGETHER (:I)",
+		"locationName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+		"meetingAddress": "208 WEST 13TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Lesbian",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WOMEN TOGETHER (:II)",
+		"locationName": "University Settlement @ Houston Street Center",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Lesbian",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "WOMEN WEST AA",
+		"locationName": "Holy Trinity Church",
+		"meetingAddress": "213 WEST 82ND STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "WOMEN'S BEGINNING LITERATURE",
+		"locationName": "Blessed Sacrament (Rectory)",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "WOMEN'S DOWNTOWN AA STEP MEETING",
+		"locationName": "St. Andrew's Church",
+		"meetingAddress": "20 CARDINAL HAYES PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "1:15 PM >",
+			"endTime": "2:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WOMEN'S ELEVENTH STEP",
+		"locationName": "",
+		"meetingAddress": "109 EAST 50TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "5:45 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "WOMEN'S ELEVENTH STEP MEETING",
+		"locationName": "",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:00 PM",
+			"meetingType": "OD = Open Discussion meeting  br",
+			"specialInterest": "Women>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "WOMEN'S NITE",
+		"locationName": "Cornerstone Center",
+		"meetingAddress": "178 BENNETT AVENUE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION",
+		"locationName": "Realization Center",
+		"meetingAddress": "19 UNION SQUARE WEST, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "11:00 AM /",
+			"endTime": "12:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		}
+	},
+	{
+		"meetingName": "WOMEN'S TELL IT LIKE IT IS",
+		"locationName": "Blessed Sacrament (Rectory)",
+		"meetingAddress": "152 WEST 71ST STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM",
+			"endTime": "1:15 PM",
+			"meetingType": "C = Closed Discussion meeting  b",
+			"specialInterest": "Women>",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "WOMEN'S WESTSIDE TOPIC",
+		"locationName": "Universalist Church",
+		"meetingAddress": "160 CENTRAL PARK WEST, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "WORKS IN PROGRESS",
+		"locationName": "Most Holy Redeemer Church",
+		"meetingAddress": "173 EAST 3RD STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "AA Literature",
+			"day": 1
+		}
+	},
+	{
+		"meetingName": "WRITING SOBER",
+		"locationName": "Holy Name Church",
+		"meetingAddress": "207 WEST 96TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:00 PM >",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Special Purpose Gro",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "UTTERFIELD - YORKVILLE",
+		"locationName": "Jan Hus Church",
+		"meetingAddress": "351 EAST 74TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		}
+	},
+	{
+		"meetingName": "YOU MAY CARE AFTER",
+		"locationName": "Metropolitan AME Church",
+		"meetingAddress": "58-66 WEST 135TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM /",
+			"endTime": "7:30 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "YOUNG AND WISE",
+		"locationName": "Middle Collegiate Church",
+		"meetingAddress": "50 EAST 7TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM",
+			"endTime": "9:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Young People",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "YOUNG IN 164",
+		"locationName": "St. Clements Church",
+		"meetingAddress": "423 WEST 46TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 PM",
+			"endTime": "8:30 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "",
+			"day": 0
+		}
+	},
+	{
+		"meetingName": "YOUNG PEOPLE'S DIVERSITY",
+		"locationName": "Hazelden Center",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:30 PM >",
+			"endTime": "9:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 3
+		}
+	},
+	{
+		"meetingName": "YOUNG PEOPLE'S MEETING",
+		"locationName": "46th Street Club House",
+		"meetingAddress": "252 WEST 46TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "9:15 PM",
+			"endTime": "10:15 PM",
+			"meetingType": "BB = Big Book meeting   e",
+			"specialInterest": "Young People",
+			"day": 5
+		}
+	},
+	{
+		"meetingName": "YOUNG PEOPLE'S STEP",
+		"locationName": "Hazelden Center",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:45 PM /",
+			"endTime": "8:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Young People",
+			"day": 2
+		}
+	},
+	{
+		"meetingName": "YOUTH ENJOYING SOBRIETY (YES)",
+		"locationName": "Hazelden Center",
+		"meetingAddress": "283 W. BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Young People",
+			"day": 6
+		}
+	}
+]

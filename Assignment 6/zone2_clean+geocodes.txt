@@ -1,0 +1,477 @@
+[
+	{
+		"meetingName": "AA ON THE BOWERY",
+		"locationName": "University Settlement",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 5
+		},
+		"latLong": {
+			"lat": 40.7237496,
+			"lng": -73.992395
+		}
+	},
+	{
+		"meetingName": "AFTERNOON DELIGHT",
+		"locationName": "Hazelden Center",
+		"meetingAddress": "283 WEST BROADWAY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 PM /",
+			"endTime": "1:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 6
+		},
+		"latLong": {
+			"lat": 40.7208017,
+			"lng": -74.0048389
+		}
+	},
+	{
+		"meetingName": "ARTISTS IN RECOVERY (A.R.T.)",
+		"locationName": "Seventh Day Adventist Church",
+		"meetingAddress": "232 W. 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "BAGELS AND BIG BOOK",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "10:30 AM",
+			"endTime": "12:00 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.7287153,
+			"lng": -74.004578
+		}
+	},
+	{
+		"meetingName": "CENTER MEETING",
+		"locationName": "Golden Bridge Yoga Center",
+		"meetingAddress": "253 CENTER STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "5:15 PM",
+			"endTime": "6:15 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Meditation at Meeti",
+			"day": 1
+		},
+		"latLong": {
+			"lat": 40.571351,
+			"lng": -74.1437751
+		}
+	},
+	{
+		"meetingName": "SOBER AGNOSTICS",
+		"locationName": "University Settlement (The Chinatown YMCA)",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:45 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "OD = Open Discussion meeting  b",
+			"specialInterest": "Agnostic",
+			"day": 5
+		},
+		"latLong": {
+			"lat": 40.7237496,
+			"lng": -73.992395
+		}
+	},
+	{
+		"meetingName": "GREENWICH VILLAGE",
+		"locationName": "St. Luke's Episcopal School",
+		"meetingAddress": "487 HUDSON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:15 PM",
+			"endTime": "8:15 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Steps 1-2-3",
+			"day": 1
+		},
+		"latLong": {
+			"lat": 40.73261979999999,
+			"lng": -74.0068029
+		}
+	},
+	{
+		"meetingName": "GRUPO CENTRAL",
+		"locationName": "St. Augustine's Church",
+		"meetingAddress": "292 HENRY STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "3:00 PM",
+			"endTime": "4:00 PM",
+			"meetingType": "O = Open meeting",
+			"specialInterest": "",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.71371430000001,
+			"lng": -73.983033
+		}
+	},
+	{
+		"meetingName": "HAPPY, JOYOUS AND FREE",
+		"locationName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "12:00 AM",
+			"meetingType": "C = Closed Discussion meeting   eci",
+			"specialInterest": "Gay Men>"
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "LOWER EAST SIDE",
+		"locationName": "Church of Saint Theresa Rectory",
+		"meetingAddress": "141 HENRY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		},
+		"latLong": {
+			"lat": 40.7134775,
+			"lng": -73.9906663
+		}
+	},
+	{
+		"meetingName": "MIDNITE",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:00 AM",
+			"endTime": "1:15 AM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "Promises",
+			"day": 1
+		},
+		"latLong": {
+			"lat": 40.7287153,
+			"lng": -74.004578
+		}
+	},
+	{
+		"meetingName": "NEW GROUP",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "83 CHRISTOPHER STREET,, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "12:30 PM",
+			"endTime": "1:30 PM",
+			"meetingType": "O = Open meeting   ecial",
+			"specialInterest": "Gay, Lesbian and Bis",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.7336761,
+			"lng": -74.0037703
+		}
+	},
+	{
+		"meetingName": "PERRY STREET WORKSHOP (:I)",
+		"locationName": "",
+		"meetingAddress": "50 PERRY STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 6
+		},
+		"latLong": {
+			"lat": 40.7355145,
+			"lng": -74.0031001
+		}
+	},
+	{
+		"meetingName": "PRIMETIME NYC (I)",
+		"locationName": "Seventh Day Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "OD = Open Discussion meeting",
+			"specialInterest": "",
+			"day": 4
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "RED DOOR",
+		"locationName": "St. John's Episcopal Church",
+		"meetingAddress": "224 WAVERLY PLACE, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 4
+		},
+		"latLong": {
+			"lat": 40.7360517,
+			"lng": -74.0020724
+		}
+	},
+	{
+		"meetingName": "ROOM FOR IMPROVEMENT",
+		"locationName": "St. Anthony's of Padua",
+		"meetingAddress": "154 SULLIVAN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Promises",
+			"day": 1
+		},
+		"latLong": {
+			"lat": 40.7272453,
+			"lng": -74.001408
+		}
+	},
+	{
+		"meetingName": "ROOM FOR IMPROVEMENT (:II)",
+		"locationName": "Chinatown YMCA",
+		"meetingAddress": "273 BOWERY STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:30 AM",
+			"endTime": "8:30 AM",
+			"meetingType": "b",
+			"specialInterest": "Topic>",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.7237496,
+			"lng": -73.992395
+		}
+	},
+	{
+		"meetingName": "SHERIDAN SQUARE FOLLIES",
+		"locationName": "St. Joseph's Church",
+		"meetingAddress": "371 6TH AVENUE, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:00 PM",
+			"endTime": "7:00 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Gay, Lesbian and Bi",
+			"day": 6
+		},
+		"latLong": {
+			"lat": 40.732613,
+			"lng": -74.00070509999999
+		}
+	},
+	{
+		"meetingName": "SOHO (:I)",
+		"locationName": "St. Anthony of Padua Church",
+		"meetingAddress": "155 SULLIVAN STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "B = Beginners meeting",
+			"specialInterest": "Interpreted for the",
+			"day": 5
+		},
+		"latLong": {
+			"lat": 40.727182,
+			"lng": -74.001238
+		}
+	},
+	{
+		"meetingName": "SPIRITUAL WORKSHOP",
+		"locationName": "The Bronfman Cernter @ NYU",
+		"meetingAddress": "7 EAST 10TH STREET,, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "11:00 AM",
+			"endTime": "12:15 PM",
+			"meetingType": "C = Closed Discussion meeting  br",
+			"specialInterest": "Eleventh Step",
+			"day": 0
+		},
+		"latLong": {
+			"lat": 40.7332774,
+			"lng": -73.99463109999999
+		}
+	},
+	{
+		"meetingName": "OGETHERNESS & ACTION -",
+		"locationName": "Seventh Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "b",
+			"specialInterest": "Women>",
+			"day": 1
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "TEN PLUS",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "81 CHRISTOPHER STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "8:00 PM /",
+			"endTime": "9:00 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 2
+		},
+		"latLong": {
+			"lat": 40.7336975,
+			"lng": -74.0035917
+		}
+	},
+	{
+		"meetingName": "THE CAPTAIN'S TABLE",
+		"locationName": "University Settlement (The Chinatown YMCA)",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "7:00 PM",
+			"endTime": "8:00 PM",
+			"meetingType": "BB = Big Book meeting",
+			"specialInterest": "Men>",
+			"day": 4
+		},
+		"latLong": {
+			"lat": 40.7237496,
+			"lng": -73.992395
+		}
+	},
+	{
+		"meetingName": "TOGETHER WE CAN",
+		"locationName": "Manhattan Seventh-Day Adventist Church",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "6:45 PM /",
+			"endTime": "8:00 PM",
+			"meetingType": "S = Step meeting",
+			"specialInterest": "",
+			"day": 2
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "WEDNESDAY FOCUS",
+		"locationName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingAddress": "232 WEST 11TH STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM >",
+			"endTime": "7:15 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "",
+			"day": 3
+		},
+		"latLong": {
+			"lat": 40.7360929,
+			"lng": -74.0027593
+		}
+	},
+	{
+		"meetingName": "WEST VILLAGE WOMEN",
+		"locationName": "St. John's Lutheran Church",
+		"meetingAddress": "83 CHRISTOPHER STREET, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:30 PM",
+			"endTime": "7:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 4
+		},
+		"latLong": {
+			"lat": 40.7336761,
+			"lng": -74.0037703
+		}
+	},
+	{
+		"meetingName": "WOMEN STRAIGHT AHEAD SATURDAY",
+		"locationName": "",
+		"meetingAddress": "220 WEST HOUSTON STREET, New York, NY",
+		"accessiblity": "",
+		"meetingDetails": {
+			"startTime": "4:45 PM",
+			"endTime": "5:45 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Women>",
+			"day": 6
+		},
+		"latLong": {
+			"lat": 40.7287153,
+			"lng": -74.004578
+		}
+	},
+	{
+		"meetingName": "WOMEN TOGETHER (:II)",
+		"locationName": "University Settlement @ Houston Street Center",
+		"meetingAddress": "273 BOWERY, New York, NY",
+		"accessiblity": "Wheelchair access",
+		"meetingDetails": {
+			"startTime": "6:15 PM",
+			"endTime": "7:30 PM",
+			"meetingType": "C = Closed Discussion meeting",
+			"specialInterest": "Lesbian",
+			"day": 5
+		},
+		"latLong": {
+			"lat": 40.7237496,
+			"lng": -73.992395
+		}
+	}
+]

@@ -35,7 +35,7 @@ var accessibility = [];
 var meetingDetails = [];
 
 // put the url in here so you arent working of a txt file
-var content = fs.readFileSync('/home/ubuntu/workspace/MTG_HTML/meetinginfoZone2.txt');
+var content = fs.readFileSync('/home/ubuntu/workspace/data/ManhattanAllInfo.txt');
  
 
 var $ = cheerio.load(content);
@@ -62,6 +62,19 @@ function addressClean (dirtyAddress) {
     else if (cleanAddress == "7 EAST 10TH STRERT"){
         return "7 EAST 10TH STREET" + ", New York, NY";
     }
+     else if(cleanAddress == "CENTRAL PARK WEST &AMP; 76TH STREET - BASEMENT GYMNASIUM"){
+        return "160 CENTRAL PARK WEST" + ", New York, NY";
+    } else if (cleanAddress == "4 WEST 76TH STREET. MEETING IN THE GYM."){
+        return "4 WEST 76TH STREET" + ", New York, NY";
+    }else if(cleanAddress == "25 EAST 15TH- CONFERENCE ROOM H"){
+         return "25 EAST 15TH" + ", New York, NY";
+    } else if(cleanAddress == "65 EAST 89TH STREET - RECTORY"){
+         return "65 EAST 89TH STREET" + ", New York, NY";
+    } else if(cleanAddress == "173 EAST 3RD STREET- BASEMENT"){
+        return "173 EAST 3RD STREET" + ", New York, NY";
+    } else if(cleanAddress == "307 W. 26TH ST."){
+        return "307 W. 26th STREET" + ", New York, NY";
+    }
     
     
     //cleanAddress = fixAddress(cleanAddress);
@@ -69,6 +82,12 @@ function addressClean (dirtyAddress) {
     
     
 }
+  
+    
+    //cleanAddress = fixAddress(cleanAddress);
+    
+    
+
 
 // cleaning Meeting Names
 // Remove all characters AFTER '-' if they are same/similar to prior characters
@@ -116,7 +135,7 @@ function numberDays(day) {
 // still need to clean: special info 
 
 
-function cleanIt(rawData) {
+function cleanIt (rawData) {
     var cleanData = {};
     
     // write a loop
@@ -186,7 +205,7 @@ var table = $('tbody');
         
        //var meetingAddress = obj.meetingAddress;
         
-    //console.log(addresses);
-    fs.writeFileSync('/home/ubuntu/workspace/data/zone2_clean.txt', JSON.stringify(addresses, null, '\t'));
+    console.log(addresses);
+    fs.writeFileSync('/home/ubuntu/workspace/data/ManhattanCleaned.txt', JSON.stringify(addresses, null, '\t'));
 });
 
