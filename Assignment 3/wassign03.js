@@ -27,7 +27,7 @@ var fs = require('fs');
 var meetingsData = []; // push to array of meetings data
 
 // get addresses from array file
-var addresses = JSON.parse(fs.readFileSync("/home/ubuntu/workspace/data/addresses.txt"));
+var addresses = JSON.parse(fs.readFileSync("/home/ubuntu/workspace/data/Zone2addresses.txt"));
 
 // create an array for the address split up and + New York, NY
 var addressSplit = [];
@@ -62,6 +62,6 @@ async.eachSeries(addressSplit, function(value, callback) {
 
 
 function() {
-    fs.writeFileSync('/home/ubuntu/workspace/data/meetingdata_geocodes.txt',  JSON.stringify(meetingsData));
+    fs.writeFileSync('/home/ubuntu/workspace/data/zone2_geocodes.txt',  JSON.stringify(meetingsData));
     console.log(meetingsData);
 });
