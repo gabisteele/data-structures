@@ -1,16 +1,16 @@
-CREATE TABLE sensorData ( maxSensorVal numeric);
+CREATE TABLE sensorData ( 
+maxSensorVal numeric(999)
+);
 
 SELECT * FROM sensor;
 
 INSERT INTO sensorData VALUES (numeric, DEFAULT);
 INSERT INTO sensorData VALUES (numeric, DEFAULT);
 
-CREATE TABLE answers ( answerVal boolean);
-
-INSERT INTO answers VALUES (TRUE, DEFAULT);
-INSERT INTO answers VALUES (FALSE, DEFAULT);
-
-CREATE TABLE visualStim ( catVideo boolean, tigerVideo boolean);
+CREATE TABLE visualStim ( 
+catVideo boolean, 
+tigerVideo boolean
+);
 
 INSERT INTO catVideo VALUES (TRUE, DEFAULT);
 INSERT INTO catVideo VALUES (FALSE, DEFAULT);
