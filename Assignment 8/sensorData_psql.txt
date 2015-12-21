@@ -9,7 +9,7 @@ INSERT INTO sensorData VALUES (numeric, DEFAULT);
 
 CREATE TABLE visualStim ( 
 catVideo boolean, 
-tigerVideo boolean
+tigerVideo boolean 
 );
 
 INSERT INTO catVideo VALUES (TRUE, DEFAULT);
